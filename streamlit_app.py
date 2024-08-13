@@ -4,4 +4,4 @@ st.write("Hello")
 st.write("Hello this is Data Scientist from Bangalore")
 
 df = ({'Name': 'Manoj'})
-st.write(df.head())
+st.write(df)
